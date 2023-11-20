@@ -78,3 +78,5 @@ The training result of these two network can be found in the elevator_qnetwork.p
 ```shell
 python3 utility.py
 ```
+
+![](https://github.com/Hu-Yichen/Elevator_sim/blob/main/Elevator_sim/animation_buffer/training%20result.gif)
