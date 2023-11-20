@@ -11,6 +11,7 @@ mkdir catkin_ws
 cd catkin_ws
 git clone https://github.com/Hu-Yichen/Elevator_sim.git
 cd Elevator_sim
+cd Elevator_sim
 ```
 
 ## Instruction on test the environment:
@@ -42,21 +43,36 @@ You can change the settings of the elevator number(3 to 8) and the number of flo
 We provided three neural netwarks in construction, the DQN is designed in train_dqn.py, LSTM is designed in train_lstm.py, the mixed input neural network is designed in train_nn.py
     
 6. You can test our DQN by running:
-	python3 train_dqn.py
+
+```shell
+python3 train_dqn.py
+```
 
 7. You can test our LSTM by running:
-	python3 train_lstm.py
+
+```shell
+python3 train_lstm.py
+```
 	
 ## Instruction on learning agent:
     
 7. You can use the SARSA(0) to train the agent by running:
-	python3 train_SARSA_0.py
+
+```shell
+python3 train_SARSA_0.py
+```
 
 8. You can use the SARSA(Lambda) to train the agent by running:
-	python3 train_SARSA_lambda.py
+
+```shell
+python3 train_SARSA_lambda.py
+```
 The training result of these two network can be found in the elevator_qnetwork.pth.
 
 ## Use the learning result to control the elevator:
 
 10. You can use the learning result to control the elevator by:
-	python3 utility.py
+
+```shell
+python3 utility.py
+```
