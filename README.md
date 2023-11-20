@@ -37,6 +37,8 @@ python3 test.py
 ```
 	
 You can change the settings of the elevator number(3 to 8) and the number of floors(8 to 30) in test.py, the gif animation is safed in the animation_buffer folder autonomously.
+
+![](https://github.com/Hu-Yichen/Elevator_sim/blob/main/Elevator_sim/animation_buffer/test.gif)
    
 ## Instruction on neural networks:
 
