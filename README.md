@@ -73,6 +73,8 @@ The training result of these two network can be found in the elevator_qnetwork.p
 
 <img src="Elevator_sim/q_value/DQN%26SARSA2.png" width="500" />
 
+![](https://github.com/Hu-Yichen/Elevator_sim/blob/main/Elevator_sim/q-value/DQN%26SARSA2.png)
+
 ## Use the learning result to control the elevator:
 
 10. You can use the learning result to control the elevator by:
