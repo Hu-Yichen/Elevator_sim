@@ -2,6 +2,8 @@
 
 The env.py is composed of the gym environment construction and class of the agent, person.py is composed of the class "Person_Genarator" and class "Person", the render.py defines the class "Render" which is used for the visualision. test.py is for you to test our code. You can find the visualision result inside the "animation_buffer" folder.
 
+(1). ""set up""
+
 instruction on test the environment:
 
 1. Open the terminal in this folder: "Elevator_sim".
