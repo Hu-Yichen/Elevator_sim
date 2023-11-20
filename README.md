@@ -71,6 +71,8 @@ python3 train_SARSA_lambda.py
 ```
 The training result of these two network can be found in the elevator_qnetwork.pth.
 
+<img src="Elevator_sim/q_value/DQN&SARSA2.png.png" width="500" />
+
 ## Use the learning result to control the elevator:
 
 10. You can use the learning result to control the elevator by:
